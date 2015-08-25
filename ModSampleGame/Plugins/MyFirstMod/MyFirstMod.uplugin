@@ -1,0 +1,19 @@
+{
+	"FileVersion" : 3,
+	
+	"FriendlyName" : "MyFirstMod",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"CreatedBy" : "Epic Games, Inc.",
+	"CreatedByURL" : "http://epicgames.com",
+	"EngineVersion" : "4.8.0",
+	"Description" : "My First Mod",
+	"Category" : "3D",
+	"EnabledByDefault" : true,
+
+	"Modules" :
+	[
+	],
+
+	"CanContainContent" : true
+}
