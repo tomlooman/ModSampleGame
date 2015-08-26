@@ -5,7 +5,7 @@ Saved
 *.sln
 *.suo
 *.pdb
-*.exe
 *-DebugGame.dll
 *.log
+*.txt
 *.target.xml
