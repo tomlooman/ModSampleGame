@@ -8,7 +8,7 @@
 	"CreatedByURL" : "http://www.tomlooman.com",
 	"EngineVersion" : "4.9.0",
 	"Description" : "My First Mod",
-	"Category" : "3D",
+	"Category" : "User Mod",
 	"EnabledByDefault" : true,
 
 	"Modules" :
